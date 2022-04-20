@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 - 💡 Fun Fact **I graduated High School at 17 with my AAS Degree in Computer Science!**
 
+Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/logoas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="logoas_" height="30" width="40" /></a>
