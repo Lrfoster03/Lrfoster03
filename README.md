@@ -3,11 +3,11 @@ Lrfoster03/Lrfoster03 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-#Hi there👋, 
+# Hi there👋, 
 
-##I’m @Lrfoster03, but you can call me Logan
+## I’m @Lrfoster03, but you can call me Logan
 
-###🚀 About Me
+### 🚀 About Me
 
 🎓 I'm a Sophomore at Washington State University Pullman currently working towards my Bachelors Degree in Computer Science and Applied Mathematic
 
