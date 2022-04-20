@@ -33,7 +33,7 @@ Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjai
   
 <a href="https://linkedin.com/in/logan-foster-6a74741a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-foster-6a74741a4/" height="30" width="40" /></a>
   
-<a href="https://instagram.com/logoas__" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="logoas__" height="30" width="40" /></a>
+<a href="https://instagram.com/logoas__" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="logoas__" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
