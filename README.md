@@ -38,9 +38,7 @@ Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjai
   
 <a href="https://instagram.com/logoas__" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logoas__" height="30" /></a>
   
-<a href="mailto: lrfoster03@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lrfoster03@gmail.com" height="30" /></a>
-  
-<img width="480" align="right" src="https://giphy.com/embed/3oz8xSwIOv5FGhZFjq>
+<a href="mailto: lrfoster03@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lrfoster03@gmail.com" height="30" /></a>                                 
 
 </p>
 
