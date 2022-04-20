@@ -41,7 +41,7 @@ Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjai
 <a href="mailto: lrfoster03@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lrfoster03@gmail.com" height="30" /></a>
   
   
-<iframe src="https://giphy.com/embed/3oz8xSwIOv5FGhZFjq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mail-petscii-3oz8xSwIOv5FGhZFjq">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3oz8xSwIOv5FGhZFjq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/mail-petscii-3oz8xSwIOv5FGhZFjq"></a>
 
 </p>
 
