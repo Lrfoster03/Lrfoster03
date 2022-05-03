@@ -9,7 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrfoster03&label=Profile%20views&color=0e75b6&style=flat" alt="lrfoster03" /> </p>
 
+<!--
 <p align="left"> <a href="https://twitter.com/logoas_" target="blank"><img src="https://img.shields.io/twitter/follow/logoas_?logo=twitter&style=for-the-badge" alt="logoas_" /></a> </p>
+-->
 
 - 🚀 I’m currently working **towards my Bachelors Degree in Computer Science and Applied Mathematic**
 
