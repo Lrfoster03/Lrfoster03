@@ -37,7 +37,7 @@ Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjai
 <!---
 <a href="https://twitter.com/logoas_" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="logoas_" height="30" /></a> -->
   
-<a href="https://linkedin.com/in/logan-foster-6a74741a4/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logan-foster-6a74741a4/" height="30" /></a>
+<a href="https://www.linkedin.com/in/logan-r-foster/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logan-foster-6a74741a4/" height="30" /></a>
 
 <!---
 <a href="https://instagram.com/logoas__" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logoas__" height="30" /></a> -->
