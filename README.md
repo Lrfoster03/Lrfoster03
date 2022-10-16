@@ -13,17 +13,17 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/logoas_" target="blank"><img src="https://img.shields.io/twitter/follow/logoas_?logo=twitter&style=for-the-badge" alt="logoas_" /></a> </p>
 -->
 
-- 🚀 I’m currently working **towards my Bachelors Degree in Computer Science and Applied Mathematics**
+- 🚀 I’m currently working **towards my Bachelors of Science Degrees in Computer Science and Applied Mathematics**
 
 - 🌱 I’m currently learning **Python and Haskell**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Lrfoster03?tab=repositories)
 
-- 🤝 I’m looking for help with **Operating System Structures**
+- 🤝 I’m looking for help with **Cybersecurity Prunciples**
 
 - 💬 Ask me about **Java, Python, or Swift**
 
-- 📫 How to reach me **lrfoster03@gmail.com**
+- 📫 You can reach me at my [**LinkedIn**](https://www.linkedin.com/in/logan-r-foster/)
 
 - 💡 Fun Fact **I graduated High School at 17 with my AAS Degree in Computer Science!**
 
