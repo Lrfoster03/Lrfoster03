@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💡 Fun Fact **I graduated High School at 17 with my AAS Degree in Computer Science!**
 
-- 🌎 You can check me out more <a href="Lrfoster03.github.io" target="_blank" rel="noopener noreferrer"> here </a>
+- 🌎 You can check me out more <a href="https://lrfoster03.github.io" target="_blank" rel="noopener noreferrer"> here </a>
 
 Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c) 
 
