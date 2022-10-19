@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for help with **Cybersecurity Principles**
 
-- 💬 Ask me about **Java, Python, or Swift**
+- 💬 Ask me about **Java, Python, or anything Robotics related!**
 
 - 📫 You can reach me at my [**LinkedIn**](https://www.linkedin.com/in/logan-r-foster/)
 
