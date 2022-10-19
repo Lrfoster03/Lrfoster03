@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/logoas_" target="blank"><img src="https://img.shields.io/twitter/follow/logoas_?logo=twitter&style=for-the-badge" alt="logoas_" /></a> </p>
 -->
 
-- 🚀 I’m currently working **towards my Bachelors of Science Degrees in Computer Science and Applied Mathematics**
+- 🚀 I’m currently working **towards my Bachelors of Science Degrees in Computer Science and Applied Mathematics at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a>**
 
 - 🌱 I’m currently learning **Python and Haskell**
 
