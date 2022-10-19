@@ -2,9 +2,7 @@
 Lrfoster03/Lrfoster03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://myoctocat.com/t" target="_blank" rel="noopener noreferrer">
-<img align="right" width="50%" src="/octocat-1666156444422.png">
-</a>
+<a href="https://myoctocat.com/t" target="_blank" rel="noopener noreferrer"> <img align="right" width="50%" src="/octocat-1666156444422.png"> </a>
 
 ### Hi there, I'm Logan <img width="30" align="center" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
@@ -30,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can reach me at my [**LinkedIn**](https://www.linkedin.com/in/logan-r-foster/)
 
 - 💡 Fun Fact **I graduated High School at 17 with my AAS Degree in Computer Science!**
+
+- 🌎 You can check me out more <a href="Lrfoster03.github.io" target="_blank" rel="noopener noreferrer"> here </a>
 
 Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c) 
 
