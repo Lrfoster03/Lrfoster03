@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Python and Haskell**
 
-- 💬 Ask me about **Java, Python, or anything Robotics related**
+- 💬 Ask me about **Anything Robotics related**
 
 - 📫 You can reach me at my [**LinkedIn**](https://www.linkedin.com/in/logan-r-foster/)
 
