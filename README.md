@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🚀 I’m currently working **towards my Bachelors of Science Degrees in Computer Science and Applied Mathematics and was selected to be a 2024 Boeing Scholars Cohort at <a href="https://wsu.edu/">WSU-Pullman<img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/Images/WSULogo.png" width="18px"/></a>**
 
-- 🌱 I’m currently learning **Python and Haskell**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **Anything Robotics related**
 
