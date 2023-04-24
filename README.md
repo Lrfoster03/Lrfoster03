@@ -33,7 +33,7 @@ Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjai
 <break>
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://github.com/Lrfoster03" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Lrfoster03" height="30" /></a>
+<!-- <a href="https://github.com/Lrfoster03" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Lrfoster03" height="30" /></a> -->
  
 <!---
 <a href="https://twitter.com/logoas_" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="logoas_" height="30" /></a> -->
@@ -43,7 +43,7 @@ Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjai
 <!---
 <a href="https://instagram.com/logoas__" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logoas__" height="30" /></a> -->
   
-<a href="mailto: lrfoster03@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lrfoster03@gmail.com" height="30" /></a>                                 
+<!-- <a href="mailto: lrfoster03@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lrfoster03@gmail.com" height="30" /></a>                                  -->
 
 </p>
 
