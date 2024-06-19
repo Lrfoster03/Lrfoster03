@@ -6,16 +6,13 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm Logan
 
-
-<h3 align="left">🎓 I'm a Senior at Washington State University</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrfoster03&label=Profile%20views&color=0e75b6&style=flat" alt="lrfoster03" /> </p>
 
 <!--
 <p align="left"> <a href="https://twitter.com/logoas_" target="blank"><img src="https://img.shields.io/twitter/follow/logoas_?logo=twitter&style=for-the-badge" alt="logoas_" /></a> </p>
 -->
 
-- 🚀 I’m currently an Associate Software Engineer at Schweitzer Engineering Laboratories while working **towards my Bachelors of Science Degrees in Computer Science and Applied Mathematics at <a href="https://wsu.edu/">WSU-Pullman**
+- 🚀 I’m currently an Associate Software Engineer at Schweitzer Engineering Laboratories
 
 - 🌱 I’m currently learning **C#**
 
@@ -23,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 You can reach me at my [**LinkedIn**](https://www.linkedin.com/in/logan-r-foster/)
 
-- 💡 Fun Fact **I am a 2024 Boeing Scholar!**
+- 💡 Fun Fact **I graduated with degrees in both Computer Science and Applied Mathematics from <a href="https://wsu.edu/">WSU-Pullman**
 
-- 🌎 You can check me out more <a href="https://lrfoster03.github.io" target="_blank" rel="noopener noreferrer"> here </a>
+- 🌎 You can check out more <a href="https://lrfoster03.github.io" target="_blank" rel="noopener noreferrer"> here </a>
 
 Want your profile to look cool too? [See how I did it](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c) 
 
